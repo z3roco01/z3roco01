@@ -2,10 +2,9 @@
   <details>
     <summary>A bit about me</summary>
     <h4>
-      look at my <a href="https://zerocool.nekoweb.org">website</a> !!</br>
-      she/they/it/pup + any neos</br>
-      My Discord is: <code>z3roco01</code></br>
-      I like low level programming in c and assembly and some java.
+      hello im cool or something please follow programs<br>
+      follow my discord i think: <code>z3roco01</code><br>
+      it/its<br>
     </h4>
   </details>
   
